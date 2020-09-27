@@ -12,3 +12,9 @@ of the PSO or other meta-heuristics to truely and toughly keep diversity among t
 number of clusters is high at the early iterations and is gradually decreased by lapse of iterations to less stress the diversity factor and further stress the fitness role to
 cause the particles to better converge to the optimal point. Holding this balance between global and personal bests’ role to attract the particles, on the one hand and between
 convergence and diversity, on the other hand, can hold a better exploration–exploitation balance in the proposed algorithm.
+
+For further information about this algorithm, please refer to the following reference:
+
+Rezaei, F., Safavi, H.R., (2020) “GuASPSO: A new approach to hold a better exploration-exploitation balance in PSO algorithm”, Soft Computing, 24: 4855-4875.
+
+Please cite this article when using the source code.
