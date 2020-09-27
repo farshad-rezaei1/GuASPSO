@@ -1,7 +1,6 @@
 # GuASPSO
-The repository contains the source codes of a set of projects presenting several novel single- and multi-objective optimization algorithms.
 
-The first project presents the source codes of a novel meta-heuristic optimization algorithm named Guided Adaptive Search-based Particle Swarm Optimization (GuASPSO) algorithm.
+This project presents the source codes of a novel meta-heuristic optimization algorithm named Guided Adaptive Search-based Particle Swarm Optimization (GuASPSO) algorithm.
 In this algorithm, the personal best particles are all divided into a linearly decreasing number of clusters. Then, the unique global best guide of a given particle located at
 a cluster is obtained as the weighted average calculated over other clusters’ best particles. Since the clustered particles are being well distributed over the whole search space
 in the clustering process, two desirable goals are fulfilled during the optimization process: (1) there would be a moderate distance between each particle and its unique
