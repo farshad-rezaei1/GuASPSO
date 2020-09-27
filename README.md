@@ -1,4 +1,4 @@
-# FR1
+# GuASPSO
 The repository contains the source codes of a set of projects presenting several novel single- and multi-objective optimization algorithms.
 
 The first project presents the source codes of a novel meta-heuristic optimization algorithm named Guided Adaptive Search-based Particle Swarm Optimization (GuASPSO) algorithm.
