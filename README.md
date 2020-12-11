@@ -9,6 +9,6 @@ the serach space are recognized, whether these regions are more-densely populate
 
 For further information about this algorithm, please refer to the following reference:
 
-Rezaei, F., Safavi, H.R., (2020) “GuASPSO: A new approach to hold a better exploration-exploitation balance in PSO algorithm”, Soft Computing, 24: 4855-4875.
+Rezaei, F., Safavi, H.R. GuASPSO: a new approach to hold a better exploration–exploitation balance in PSO algorithm. Soft Comput 24, 4855–4875 (2020). https://doi.org/10.1007/s00500-019-04240-8
 
 Please cite this article when using the source code.
